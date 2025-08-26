@@ -11,6 +11,6 @@ Estudante de Informática com interesse em **programação e tecnologia**.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub Snake](https://github.com/lelezzote/lelezzote/blob/output/github-contribution-grid-snake.svg)
+
 
 
